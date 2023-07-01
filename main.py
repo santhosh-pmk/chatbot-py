@@ -13,3 +13,5 @@ while True:
         print("Bye.")
         break
         #summanothing
+    else:
+        print("Sorry, couldn't understand that.")
