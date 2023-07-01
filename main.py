@@ -12,4 +12,4 @@ while True:
     elif query == "exit":
         print("Bye.")
         break
-        #summa
+        #summanothing
