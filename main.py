@@ -12,6 +12,5 @@ while True:
     elif query == "exit":
         print("Bye.")
         break
-        #summanothing
     else:
         print("Sorry, couldn't understand that.")
